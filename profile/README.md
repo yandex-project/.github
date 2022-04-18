@@ -9,3 +9,5 @@
 
 🧙 Our telegram [yeezy-na-izi](t.me/yeezy_na_izi) [samolyotick](t.me/samolyotik) [powik](t.me/Powik174)
 
+### 😉 Here's some humor for you:
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
